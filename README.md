@@ -48,6 +48,7 @@ A NodeList is an array-like object which doesn't have access to all array method
 
 A component is a function that takes in data and returns a piece of UI.
 
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
